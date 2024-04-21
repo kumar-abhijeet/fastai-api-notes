@@ -7,6 +7,8 @@ This is an attempt to condense the FastAI package info. Think of it as a cheatsh
 ```
 from fastai.vision.all import *
 from fastai.text.all import *
+
+# we will not cover these two. scikit-learn / other standard python packages can be used for such use cases
 from fastai.collab import *
 from fastai.tabular.all import *
 ```
